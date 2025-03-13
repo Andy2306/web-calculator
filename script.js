@@ -11,7 +11,7 @@ function clearDisplay() {
 }
 
 // fungsi untuk melakukan kalkulasi
-function calculate() {
+function hitung() {
     const display = document.getElementById('display');
 
     try {
